@@ -10,7 +10,7 @@
 - 💻 I work as an Data Scientist and spend my days thinking on data, coding in python (and R :blue_heart:) and solving problems :nerd_face:. 
 - :man_teacher: I also teach science at the [university](https://www.uns.edu.ar/) in my home town (the same one where I got my PhD. in biology). 
 - ✍️ And I like traveling and taking pictures that I post on my [IG](https://www.instagram.com/sir_taxus/). Go ahead and have a look :blush:
-- Learning languages: Spanish :argentina:, English :us:, French :fr:
+- Learning languages: Spanish :argentina: &nbsp; English :us: &nbsp; French :fr:
 
 <br>
 
