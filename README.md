@@ -22,7 +22,7 @@
 
 <br>
 <p align="left">
-<a href="https://twitter.com/ntaxus"><img  alt="Nico's Linkedin"  src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50" height="50" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/nicolasccaruso/"><img  alt="Nico's Linkedin"  src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50" height="50" /></a>&nbsp; &nbsp; &nbsp;
 <a href="https://twitter.com/ntaxus"><img  alt="Nico's Twitter"  src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="50" height="50" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:nccaruso@gmail.com?subject=Hi, there"><img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" width="50" height="50" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://google.com"><img  alt="Nico's portfolio"  src="https://cdn-icons-png.flaticon.com/512/3059/3059997.png" width="50" height="50" /></a>
