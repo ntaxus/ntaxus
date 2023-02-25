@@ -3,11 +3,10 @@
 
 
 <p align="center">
-<a href="https://twitter.com/ntaxus"><img  alt="Nico's Linkedin"  src="https://cdn-icons-png.flaticon.com/512/145/145807.png' width="50" height="50" /></a>&nbsp;
-<a href="https://twitter.com/ohidurbappy"><img  alt="Nico's Twitter"  src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="50" height="50" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/ohidurbappy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:me+github_readme@ohidur.com?subject=Hi, there"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://www.facebook.com/ohidurbappy/"><img  alt="Ohidur Rahman Bappy's Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://twitter.com/ntaxus"><img  alt="Nico's Linkedin"  src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50" height="50" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://twitter.com/ntaxus"><img  alt="Nico's Twitter"  src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="50" height="50" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:nccaruso@gmail.com?subject=Hi, there"><img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" width="50" height="50" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://google.com"><img  alt="Nico's portfolio"  src="https://cdn-icons-png.flaticon.com/512/3059/3059997.png" width="50" height="50" /></a>
 </p>
 
 <br>
