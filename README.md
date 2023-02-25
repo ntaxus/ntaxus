@@ -2,15 +2,6 @@
 
 
 
-<p align="center">
-<a href="https://twitter.com/ntaxus"><img  alt="Nico's Linkedin"  src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50" height="50" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://twitter.com/ntaxus"><img  alt="Nico's Twitter"  src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="50" height="50" /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:nccaruso@gmail.com?subject=Hi, there"><img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" width="50" height="50" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://google.com"><img  alt="Nico's portfolio"  src="https://cdn-icons-png.flaticon.com/512/3059/3059997.png" width="50" height="50" /></a>
-</p>
-
-<br>
-
 
 ## Hi there! I'm Nico 🙋🏾
 
@@ -29,14 +20,26 @@
 
 ## Connect with me:
 
+<br>
+<p align="left">
+<a href="https://twitter.com/ntaxus"><img  alt="Nico's Linkedin"  src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50" height="50" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://twitter.com/ntaxus"><img  alt="Nico's Twitter"  src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="50" height="50" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:nccaruso@gmail.com?subject=Hi, there"><img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" width="50" height="50" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://google.com"><img  alt="Nico's portfolio"  src="https://cdn-icons-png.flaticon.com/512/3059/3059997.png" width="50" height="50" /></a>
+</p>
+<br>
+
+
+<!--
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin] &nbsp; Ask me about data analysis, biology or anything else you found in this repo. 
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter] &nbsp; You can also find me in Twitter. 
 
 [<img align="left" alt="WebSite" width="22px" src="https://cdn-icons-png.flaticon.com/512/3059/3059997.png" />][twitter] &nbsp; And you can also have a look on my portfolio (which is still under construction) &nbsp; :construction: 
 
-<!-- This section you create this variables that are used above -->
+ This section you create this variables that are used above 
 
 [website]: https://google.com
 [twitter]: https://twitter.com/ntaxus
 [linkedin]: https://www.linkedin.com/in/nicolasccaruso/
+-->
