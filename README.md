@@ -27,7 +27,6 @@
 <a href="mailto:nccaruso@gmail.com?subject=Hi, there"><img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" width="50" height="50" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://google.com"><img  alt="Nico's portfolio"  src="https://cdn-icons-png.flaticon.com/512/3059/3059997.png" width="50" height="50" /></a>
 </p>
-<br>
 
 
 <!--
