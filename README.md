@@ -1,6 +1,18 @@
 ![Hero image](https://github.com/ntaxus/myportfolio/blob/main/images/data-science.jpg?raw=true)
 
 
+
+<p align="center">
+<a href="https://twitter.com/ntaxus"><img  alt="Nico's Linkedin"  src="https://cdn-icons-png.flaticon.com/512/145/145807.png' width="50" height="50" /></a>&nbsp;
+<a href="https://twitter.com/ohidurbappy"><img  alt="Nico's Twitter"  src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="50" height="50" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ohidurbappy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:me+github_readme@ohidur.com?subject=Hi, there"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.facebook.com/ohidurbappy/"><img  alt="Ohidur Rahman Bappy's Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<br>
+
+
 ## Hi there! I'm Nico 🙋🏾
 
 
@@ -14,7 +26,7 @@
 
 ![My top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ntaxus&layout=compact&theme=gotham)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ntaxus&show_icons=true&theme=gotham)
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ntaxus&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
+[![My gitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ntaxus&theme=gotham&mode=weekly)](https://git.io/streak-stats)
 
 ## Connect with me:
 
