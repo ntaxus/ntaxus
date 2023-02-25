@@ -22,7 +22,7 @@
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter] &nbsp; You can also find me in Twitter. 
 
-
+[<img align="left" alt="WebSite" width="22px" src="https://cdn-icons-png.flaticon.com/512/3059/3059997.png" />][twitter] &nbsp; And you can also have a look on my portfolio (which is still under construction) &nbsp; :construction: 
 
 <!-- This section you create this variables that are used above -->
 
